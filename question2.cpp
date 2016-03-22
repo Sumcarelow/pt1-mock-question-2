@@ -1,10 +1,11 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 //                         COMPUTER METHODS 3 PRACTICAL TEST 1 (MOCK)
-// Name:
-// Student No:
-// Date: 
+// Name: Samkelo Zondi
+// Student No: 214538321
+// Date: 22-March-2016
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
+#include "Time.h"
 
 using namespace std;
 
@@ -16,6 +17,7 @@ using namespace std;
 //      Put the declaration and definition in appropriate files! 
 // 2.2  Overload the stream insertion operator for your class to print the time in format hh:mm 
 // 2.3  Overload the POSTFIX increment operator to increment the minutes (include carry if needed)
+
 
 
 // ***** DO NOT MODIFY CODE BELOW THIS LINE *****
